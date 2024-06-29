@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @salman1550
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
 - 📫 How to reach me { syedsalman1550@gmail.com }
 
 <!---
